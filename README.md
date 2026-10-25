@@ -4,12 +4,6 @@
   
 #  Hi,I'm thss192 ✨!
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| **[PA2D](https://github.com/thss192/PA2D)** | [A software rendering graphics library](https://prismarch.cn) | **Active** |
-| **[dek-lite](https://github.com/thss192/dek-lite)** | Easy-to-use DeepSeek API library | **In Development** |
-| **More Projects** | Exploring various tech domains | 🔄 **Ongoing** | `Various` |
-
 *I'm driven by curiosity to learn about anything and everything.🌱*  
 误入代码世界，瞎学，不行我就去做羊毛毡了
 </div>
